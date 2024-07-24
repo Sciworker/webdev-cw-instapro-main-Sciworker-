@@ -10,6 +10,7 @@ export function renderAddPostPageComponent({ appEl, onAddPostClick }) {
   }
 
   
+
   const render = () => {
     // Реализовать страницу добавления поста
     const appHtml = `
