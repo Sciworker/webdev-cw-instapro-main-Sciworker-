@@ -9,6 +9,7 @@ export function renderAddPostPageComponent({ appEl, onAddPostClick }) {
     uploadedImageUrl = newImageUrl; // Сохраните новый URL изображения
   }
 
+  
   const render = () => {
     // Реализовать страницу добавления поста
     const appHtml = `
